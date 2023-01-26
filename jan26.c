@@ -1,5 +1,6 @@
 
 #include<stdio.h>
+//just practice
 int main(){
     char ch;
     printf("Enter");
